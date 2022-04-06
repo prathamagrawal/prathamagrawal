@@ -1,17 +1,19 @@
-### Hi there 👋
-Still battling aliens to write this. 
 
-<!--
-**prathamagrawal/prathamagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pratham Agrawal
 
-Here are some ideas to get you started:
+An Aspiring Data Scientist and Machine Learning Enthusiast.😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+👦🏻 A 19 year old, aspring to go big in Data Science. \
+💬 Ask me about anything, I will probably stackoverflow and answer.\
+📚 Currently in my Second Year of B.Tech in Computer Science and Data Science\
+💻 Let’s work on some exciting Machine Learning/ Artificial Intelligence Projects\
+🧑🏻‍💻 Can check on my other work at https://www.kaggle.com/fearsomejockey \
+📧 Reach out to prathamagrawal1205@gmail.com or https://www.linkedin.com/in/pratham-agrawal-11995b1a1/ 
+
+
+
+
+
