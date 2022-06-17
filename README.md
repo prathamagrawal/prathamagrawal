@@ -33,6 +33,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=prathamagrawal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prathamagrawal&theme=dark&hide_border=true&layout=compact)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamagrawal&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamagrawal&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
