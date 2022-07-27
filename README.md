@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-👦🏻 A 19 year old, aspring to go big in Data Science. \
+👦🏻 A 20 year old, aspring to go big in Data Science. \
 💬 Ask me about anything, I will probably stackoverflow and answer.\
 📚 Currently in my Second Year of B.Tech in Computer Science and Data Science\
 💻 Let’s work on some exciting Machine Learning/ Artificial Intelligence Projects\
