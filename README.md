@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pratham Agrawal</h1>
-<h3 align="center">An Aspiring Data Scientist and Machine Learning Enthusiast.😄</h3>
+<h3 align="center">An Data Scientist and Machine Learning Engineer.😄</h3>
 
 
 ## 🚀 About Me
