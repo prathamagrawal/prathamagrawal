@@ -17,7 +17,7 @@
 
 <hr/>
 
-<details>
+<details open>
   <summary><b>:computer: &nbsp;Languages:</b></summary>
   <br/>
 
@@ -33,7 +33,7 @@
 </details>
 
 
-<details>
+<details open>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
@@ -58,7 +58,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
